@@ -17,11 +17,6 @@
     "ios": "7.0"
   },
   "requires_arc": true,
-  "resource_bundles": {
-    "FIDynamicViewController": [
-      "Pod/Assets/*.png"
-    ]
-  },
   "frameworks": [
     "UIKit",
     "CoreGraphics"
